@@ -21,3 +21,6 @@ next.js 中，布局可以进行共享，在多个页面中共享
             query 下的是去执行sql，返回查询语句
             
             在export 导出语句里边写的 东西就是 在访问路由的时候需要执行的方法
+
+
+创建（）用括号括起了的文件夹的时候，这个目录结构不会影响 路径结构  /dashboard/(overview)/page.tsx 变为 /dashboard
